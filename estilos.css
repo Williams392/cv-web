@@ -1,0 +1,27 @@
+/* Agrega estilos personalizados aquí */
+body.cv-page {
+    font-family: Arial, sans-serif;
+    /* Establece las dimensiones de la página en A4 */
+    width: 21cm;
+    /* height: 29.7cm; */
+    /* Centra la página en la pantalla */
+    margin: 0 auto;
+    /* Agrega un margen alrededor del contenido */
+    padding: 2cm;
+    /* Establece el fondo en blanco */
+    background-color: white;
+    /* Agrega un borde negro alrededor de la página */
+    border: 1px solid black;
+    /* Agrega un margen superior adicional */
+    margin-top: 2cm;
+}
+.container {
+    margin-top: 2rem;
+}
+.cv-section {
+    margin-bottom: 2rem;
+}
+.cv-section h2 {
+    margin-top: 0;
+}
+
